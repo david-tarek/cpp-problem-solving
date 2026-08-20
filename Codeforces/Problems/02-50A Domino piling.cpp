@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  int M, N;
+  cin >> M >> N;
+  int NumberOfDominoes = M * N / 2;
+  cout << NumberOfDominoes;
+  return 0;
+}
