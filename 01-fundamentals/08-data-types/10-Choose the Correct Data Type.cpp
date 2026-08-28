@@ -6,7 +6,7 @@ int main()
   int Age = 21;
   long long Population = 10000000000;
   float Temperature = 36.5;
-  long double Pi = 3.141592653589793;
+  long double Pi = 3.141592653589793L;
   bool IsStudent = true;
 
   cout << "Age: " << Age << endl;

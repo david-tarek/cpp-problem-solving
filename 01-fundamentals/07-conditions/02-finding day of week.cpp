@@ -24,31 +24,31 @@ int main()
   month %= 7;
   if (month == 0)
   {
-    cout << "This day is: " << month << " Sunday \n";
+    cout << "This day is: " << " Sunday \n";
   }
   else if (month == 1)
   {
-    cout << "This day is: " << month << " Monday \n";
+    cout << "This day is: " << " Monday \n";
   }
   else if (month == 2)
   {
-    cout << "This day is: " << month << " Tuesday \n";
+    cout << "This day is: " << " Tuesday \n";
   }
   else if (month == 3)
   {
-    cout << "This day is: " << month << " Wednesday \n";
+    cout << "This day is: " << " Wednesday \n";
   }
   else if (month == 4)
   {
-    cout << "This day is: " << month << " Thursday \n";
+    cout << "This day is: " << " Thursday \n";
   }
   else if (month == 5)
   {
-    cout << "This day is: " << month << " Friday \n";
+    cout << "This day is: " << " Friday \n";
   }
   else if (month == 6)
   {
-    cout << "This day is: " << month << " Saturday \n";
+    cout << "This day is: " << " Saturday \n";
   }
 
   return 0;

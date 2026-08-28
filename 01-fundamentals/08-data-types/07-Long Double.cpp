@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-  long double num = 3.141592653589793;
+  long double num = 3.141592653589793L;
   cout << setprecision(17);
   cout << num;
 
