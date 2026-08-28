@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  char C;
+  cin >> C;
+  if (C == 'z')
+  {
+    cout << 'a';
+  }
+  else
+  {
+    cout << char(C + 1) << endl;
+  }
+  return 0;
+}
